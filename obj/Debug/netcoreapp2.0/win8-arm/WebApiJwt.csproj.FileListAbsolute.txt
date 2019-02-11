@@ -1,0 +1,13 @@
+D:\Projects\.NET Core\WebApiJwt\bin\Debug\netcoreapp2.0\win8-arm\hostpolicy.dll
+D:\Projects\.NET Core\WebApiJwt\bin\Debug\netcoreapp2.0\win8-arm\hostfxr.dll
+D:\Projects\.NET Core\WebApiJwt\bin\Debug\netcoreapp2.0\win8-arm\WebApiJwt.exe
+D:\Projects\.NET Core\WebApiJwt\bin\Debug\netcoreapp2.0\win8-arm\WebApiJwt.deps.json
+D:\Projects\.NET Core\WebApiJwt\bin\Debug\netcoreapp2.0\win8-arm\WebApiJwt.runtimeconfig.json
+D:\Projects\.NET Core\WebApiJwt\bin\Debug\netcoreapp2.0\win8-arm\WebApiJwt.runtimeconfig.dev.json
+D:\Projects\.NET Core\WebApiJwt\bin\Debug\netcoreapp2.0\win8-arm\WebApiJwt.dll
+D:\Projects\.NET Core\WebApiJwt\bin\Debug\netcoreapp2.0\win8-arm\WebApiJwt.pdb
+D:\Projects\.NET Core\WebApiJwt\obj\Debug\netcoreapp2.0\win8-arm\WebApiJwt.csproj.CoreCompileInputs.cache
+D:\Projects\.NET Core\WebApiJwt\obj\Debug\netcoreapp2.0\win8-arm\WebApiJwt.AssemblyInfoInputs.cache
+D:\Projects\.NET Core\WebApiJwt\obj\Debug\netcoreapp2.0\win8-arm\WebApiJwt.AssemblyInfo.cs
+D:\Projects\.NET Core\WebApiJwt\obj\Debug\netcoreapp2.0\win8-arm\WebApiJwt.dll
+D:\Projects\.NET Core\WebApiJwt\obj\Debug\netcoreapp2.0\win8-arm\WebApiJwt.pdb
